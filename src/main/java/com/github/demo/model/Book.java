@@ -10,6 +10,9 @@ public class Book {
     private String author;
 
     private String cover;
+    
+    ptivate Integer price;
+    
 
     public Book() {
 
